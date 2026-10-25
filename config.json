@@ -20,5 +20,62 @@
   "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
   "goatcounter": "https://sassafras.goatcounter.com/count",
   "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
-  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g"
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "look": {
+    "인문사회관": {
+      "style": "brick",
+      "wall": "#7a5a50",
+      "glass": "#3e4a50",
+      "frame": "#d9d6d0"
+    },
+    "예지관/대강당": {
+      "style": "brick",
+      "wall": "#d8a67f",
+      "glass": "#4f7a86",
+      "frame": "#e8e8e8"
+    },
+    "체육관": {
+      "style": "concrete",
+      "wall": "#dde2e6",
+      "glass": "#2a3238",
+      "frame": "#4f5a61"
+    },
+    "도서관": {
+      "style": "stone",
+      "wall": "#e2e7eb",
+      "glass": "#3d4b55",
+      "frame": "#82909c"
+    },
+    "과학관": {
+      "style": "brick",
+      "wall": "#6e4f4a",
+      "glass": "#2f4a45",
+      "frame": "#e8e8ea"
+    },
+    "대학본부/정보교육관": {
+      "style": "stone",
+      "wall": "#e1ddd9",
+      "glass": "#4e6966",
+      "frame": "#adaaaa"
+    },
+    "학생회관": {
+      "style": "stone",
+      "wall": "#eef0f3",
+      "glass": "#5a757d",
+      "frame": "#e0e3e6"
+    },
+    "제1생활관": {
+      "style": "brick",
+      "wall": "#94605a",
+      "glass": "#3f4448",
+      "frame": "#ececec"
+    },
+    "제2생활관": {
+      "style": "brick",
+      "wall": "#a8604e",
+      "glass": "#3a4045",
+      "frame": "#ececec"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
 }
