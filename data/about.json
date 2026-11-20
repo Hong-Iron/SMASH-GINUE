@@ -1,0 +1,34 @@
+{
+ "region": "인천 계양구 계산동",
+ "nameEn": "Gyeongin National University of Education Incheon Campus",
+ "added": "2026-10-24T16:30",
+ "rank": 160,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "KIWU",
+   "campus": "경인여자대학교",
+   "km": 1.4
+  },
+  {
+   "code": "BUCHEON",
+   "campus": "부천대학교",
+   "km": 7.6
+  },
+  {
+   "code": "CHUNGWOON-INCHEON",
+   "campus": "청운대학교 인천캠퍼스",
+   "km": 8.8
+  },
+  {
+   "code": "STU",
+   "campus": "서울신학대학교",
+   "km": 9.0
+  },
+  {
+   "code": "JAENEUNG",
+   "campus": "재능대학교 송림캠퍼스",
+   "km": 9.1
+  }
+ ]
+}
